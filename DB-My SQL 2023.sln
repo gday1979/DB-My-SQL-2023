@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.DataBases Introduction", "01.DataBases Introduction", "{E7496A0F-CD0C-4A8F-A17F-6B5E5B170D8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.CRUD", "02.CRUD", "{7938AFDD-ADF5-48BE-8DEB-0052CB3F3B52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Table Relations", "03.Table Relations", "{60E94059-94B1-476E-BBC5-5619EC32AB62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Built-in Functions", "04.Built-in Functions", "{6DD2AA09-8D21-4D8A-A0D8-D30D74D2968F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Subqueries and Joins", "05.Subqueries and Joins", "{47E2F827-DE4A-455C-A522-37428E6C4B9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Indices and Data Aggregation", "06.Indices and Data Aggregation", "{A5087AE4-0F14-40E6-95CD-5393AD8DD9D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Functions, Procedures, Triggers and Transactions", "07.Functions, Procedures, Triggers and Transactions", "{0D2513FB-BDFD-40F7-AD27-49A8D623F734}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Additional Exercises", "08.Additional Exercises", "{192DE321-9134-499E-ACE9-5C3698E2B573}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94093006-2B58-4947-845B-D013E13B873A}
+	EndGlobalSection
+EndGlobal
