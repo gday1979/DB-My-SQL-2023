@@ -29,7 +29,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{D80B927D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{9102DFC2-2938-49A6-8F0F-E06E4215F00F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "Tasks\Tasks.csproj", "{C5444627-5359-435A-80A9-1D06E069F91B}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5444627-5359-435A-80A9-1D06E069F91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5444627-5359-435A-80A9-1D06E069F91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5444627-5359-435A-80A9-1D06E069F91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5444627-5359-435A-80A9-1D06E069F91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
@@ -39,6 +51,7 @@ Global
 		{592067ED-1E92-43F4-A4A4-F6B0AD65B2F5} = {60E94059-94B1-476E-BBC5-5619EC32AB62}
 		{D80B927D-6850-4054-BA66-41FA6EF9CA37} = {6DD2AA09-8D21-4D8A-A0D8-D30D74D2968F}
 		{9102DFC2-2938-49A6-8F0F-E06E4215F00F} = {47E2F827-DE4A-455C-A522-37428E6C4B9B}
+		{C5444627-5359-435A-80A9-1D06E069F91B} = {AACC9055-64A7-40DB-98D5-A30E2A9653A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94093006-2B58-4947-845B-D013E13B873A}
