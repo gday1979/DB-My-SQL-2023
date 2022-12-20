@@ -6,8 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Data Base Introduction", "01.Data Base Introduction", "{BB0439DF-1F79-4DCF-ACA2-3E63F4D8D599}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{E80CAB58-6C87-4048-B8BE-7596FCF36CC8}"
+	ProjectSection(SolutionItems) = preProject
+		02. Find All Information About Departments.sql = 02. Find All Information About Departments.sql
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task 1\Task 1.csproj", "{D4A02692-C7B8-48FD-9814-109DECA1C754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 1", "Task 1\Task 1.csproj", "{D4A02692-C7B8-48FD-9814-109DECA1C754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
