@@ -12,6 +12,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{E80CAB58
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 1", "Task 1\Task 1.csproj", "{D4A02692-C7B8-48FD-9814-109DECA1C754}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.CRUD", "02.CRUD", "{C3DC4350-7C1E-4866-B5E4-08FF5A1DB954}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{E890FE5B-474D-4B16-B442-EA77CC960ACD}"
+	ProjectSection(SolutionItems) = preProject
+		02. Find All Information About Departments.sql = 02. Find All Information About Departments.sql
+		SqlQuery_1.sql = SqlQuery_1.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +37,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E80CAB58-6C87-4048-B8BE-7596FCF36CC8} = {BB0439DF-1F79-4DCF-ACA2-3E63F4D8D599}
 		{D4A02692-C7B8-48FD-9814-109DECA1C754} = {E80CAB58-6C87-4048-B8BE-7596FCF36CC8}
+		{E890FE5B-474D-4B16-B442-EA77CC960ACD} = {C3DC4350-7C1E-4866-B5E4-08FF5A1DB954}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94093006-2B58-4947-845B-D013E13B873A}
