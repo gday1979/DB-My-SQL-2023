@@ -29,7 +29,29 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{E890FE5B-474D-4B16-B442-EA77CC960ACD}"
 	ProjectSection(SolutionItems) = preProject
 		02. Find All Information About Departments.sql = 02. Find All Information About Departments.sql
-		SqlQuery_1.sql = SqlQuery_1.sql
+		03. Find all Department Names.sql = 03. Find all Department Names.sql
+		04. Find Salary of Each Employee.sql = 04. Find Salary of Each Employee.sql
+		05. Find Full Name of Each Employee.sql = 05. Find Full Name of Each Employee.sql
+		06. Find Email Address of Each Employee.sql = 06. Find Email Address of Each Employee.sql
+		07. Find All Different Employee’s Salaries.sql = 07. Find All Different Employee’s Salaries.sql
+		08. Find all Information About Employees.sql = 08. Find all Information About Employees.sql
+		09. Find Names of All Employees by Salary in Range.sql = 09. Find Names of All Employees by Salary in Range.sql
+		10. Find Names of All Employees.sql = 10. Find Names of All Employees.sql
+		11. Find All Employees Without Manager.sql = 11. Find All Employees Without Manager.sql
+		12. Find All Employees with Salary More Than.sql = 12. Find All Employees with Salary More Than.sql
+		13. Find 5 Best Paid Employees.sql = 13. Find 5 Best Paid Employees.sql
+		14. Find All Employees Except Marketing.sql = 14. Find All Employees Except Marketing.sql
+		15. Sort Employees Table.sql = 15. Sort Employees Table.sql
+		16. Create View Employees with Salaries.sql = 16. Create View Employees with Salaries.sql
+		17. Create View Employees with Job Titles.sql = 17. Create View Employees with Job Titles.sql
+		18. Distinct Job Titles.sql = 18. Distinct Job Titles.sql
+		19. Find First 10 Started Projects.sql = 19. Find First 10 Started Projects.sql
+		20. Last 7 Hired Employees.sql = 20. Last 7 Hired Employees.sql
+		21. Increase Salaries.sql = 21. Increase Salaries.sql
+		22. All Mountain Peaks.sql = 22. All Mountain Peaks.sql
+		23. Biggest Countries by Population.sql = 23. Biggest Countries by Population.sql
+		24. Countries and Currency .sql = 24. Countries and Currency .sql
+		25. All Diablo Characters.sql = 25. All Diablo Characters.sql
 	EndProjectSection
 EndProject
 Global
