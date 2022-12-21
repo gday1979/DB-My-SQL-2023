@@ -1,0 +1,19 @@
+﻿CREATE TABLE People
+(
+Id INT PRIMARY KEY ,
+NAME NVARCHAR(200) NOT NULL,
+Picture VARBINARY(MAX),
+Height DECIMAL(3,2),
+Weight DECIMAL(5,2),
+Gender NCHAR(1) NOT NULL,
+BirthDate  DATE NOT NULL,
+Biography NVARCHAR(MAX)
+
+
+)
+INSERT INTO People VALUES
+(1,'Zlati',NUll,1.94,115,'m','1979-05-16',NULL),
+(2,'Moshe',NUll,1.96,125,'m','1969-05-16',NULL),
+(3,'Haim',NUll,1.98,135,'m','1959-05-16',NULL),
+(4,'Io',NUll,2.94,145,'m','1949-05-16',NULL),
+(5,'Sam',NUll,1.99,105,'m','1939-05-16',NULL)

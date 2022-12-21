@@ -8,6 +8,18 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{E80CAB58-6C87-4048-B8BE-7596FCF36CC8}"
 	ProjectSection(SolutionItems) = preProject
 		02. Find All Information About Departments.sql = 02. Find All Information About Departments.sql
+		04. Insert Records in Both Tables.sql = 04. Insert Records in Both Tables.sql
+		07. Create Table People.sql = 07. Create Table People.sql
+		08. Create Table Users.sql = 08. Create Table Users.sql
+		13. Movies Database.sql = 13. Movies Database.sql
+		14. Car Rental Database.sql = 14. Car Rental Database.sql
+		15. Hotel Database.sql = 15. Hotel Database.sql
+		19. Basic Select All Fields.sql = 19. Basic Select All Fields.sql
+		20. Basic Select All Fields and Order Them.sql = 20. Basic Select All Fields and Order Them.sql
+		21. Basic Select Some Fields.sql = 21. Basic Select Some Fields.sql
+		22. Increase Employees Salary.sql = 22. Increase Employees Salary.sql
+		23. Decrease Tax Rate.sql = 23. Decrease Tax Rate.sql
+		24. Delete All Records.sql = 24. Delete All Records.sql
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 1", "Task 1\Task 1.csproj", "{D4A02692-C7B8-48FD-9814-109DECA1C754}"
