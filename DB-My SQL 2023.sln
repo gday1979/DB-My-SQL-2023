@@ -54,6 +54,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{E890FE5B
 		25. All Diablo Characters.sql = 25. All Diablo Characters.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Table Relations", "03.Table Relations", "{C1272591-596B-4891-BF29-9F765450CE06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{04D5F887-EB51-478A-87CF-911EEC25367F}"
+	ProjectSection(SolutionItems) = preProject
+		01. One-To-One Relationship.sql = 01. One-To-One Relationship.sql
+		02. One-To-Many Relationship.sql = 02. One-To-Many Relationship.sql
+		03. Many-To-Many Relationship.sql = 03. Many-To-Many Relationship.sql
+		04. Self-Referencing.sql = 04. Self-Referencing.sql
+		05. Online Store Database.sql = 05. Online Store Database.sql
+		06. University Database.sql = 06. University Database.sql
+		09. Peaks in Rila.sql = 09. Peaks in Rila.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +85,7 @@ Global
 		{E80CAB58-6C87-4048-B8BE-7596FCF36CC8} = {BB0439DF-1F79-4DCF-ACA2-3E63F4D8D599}
 		{D4A02692-C7B8-48FD-9814-109DECA1C754} = {E80CAB58-6C87-4048-B8BE-7596FCF36CC8}
 		{E890FE5B-474D-4B16-B442-EA77CC960ACD} = {C3DC4350-7C1E-4866-B5E4-08FF5A1DB954}
+		{04D5F887-EB51-478A-87CF-911EEC25367F} = {C1272591-596B-4891-BF29-9F765450CE06}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94093006-2B58-4947-845B-D013E13B873A}
