@@ -67,6 +67,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{04D5F887
 		09. Peaks in Rila.sql = 09. Peaks in Rila.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Built-in Functions", "04.Built-in Functions", "{614763BD-ABC3-4364-89BA-45BE0C5B2DA7}"
+	ProjectSection(SolutionItems) = preProject
+		01. Find Names of All Employees by First Name.sql = 01. Find Names of All Employees by First Name.sql
+		02. Find Names of All Employees by Last Name.sql = 02. Find Names of All Employees by Last Name.sql
+		03. Find First Names of All Employess.sql = 03. Find First Names of All Employess.sql
+		04. Find All Employees Except Engineers.sql = 04. Find All Employees Except Engineers.sql
+		05. Find Towns with Name Length.sql = 05. Find Towns with Name Length.sql
+		06. Find Towns Starting With.sql = 06. Find Towns Starting With.sql
+		07. Find Towns Not Starting With.sql = 07. Find Towns Not Starting With.sql
+		08. Create View Employees Hired After.sql = 08. Create View Employees Hired After.sql
+		09. Length of Last Name.sql = 09. Length of Last Name.sql
+		10. Rank Employees by Salary.sql = 10. Rank Employees by Salary.sql
+		11. Find All Employees with Rank 2.sql = 11. Find All Employees with Rank 2.sql
+		12. Countries Holding .sql = 12. Countries Holding .sql
+		13. Mix of Peak and River Names.sql = 13. Mix of Peak and River Names.sql
+		14. Games From 2011 and 2012 Year.sql = 14. Games From 2011 and 2012 Year.sql
+		15. User Email Providers.sql = 15. User Email Providers.sql
+		16. Get Users with IPAddress Like Pattern.sql = 16. Get Users with IPAddress Like Pattern.sql
+		17. Show All Games with Duration.sql = 17. Show All Games with Duration.sql
+		18. Orders Table.sql = 18. Orders Table.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
