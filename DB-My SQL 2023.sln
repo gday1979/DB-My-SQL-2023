@@ -89,6 +89,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Built-in Functions", "04
 		18. Orders Table.sql = 18. Orders Table.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Subqueries and Joins", "05.Subqueries and Joins", "{AE4A83DC-921C-49D6-883D-391305A0E954}"
+	ProjectSection(SolutionItems) = preProject
+		01. Employee Address.sql = 01. Employee Address.sql
+		02. Addresses with Towns.sql = 02. Addresses with Towns.sql
+		03. Sales Employees.sql = 03. Sales Employees.sql
+		04. Employee Departments.sql = 04. Employee Departments.sql
+		05. Employees Without Projects.sql = 05. Employees Without Projects.sql
+		06. Employees Hired After.sql = 06. Employees Hired After.sql
+		07. Employees With Project.sql = 07. Employees With Project.sql
+		08. Employee 24.sql = 08. Employee 24.sql
+		09. Employee Manager.sql = 09. Employee Manager.sql
+		10. Employees Summary.sql = 10. Employees Summary.sql
+		11. Min Average Salary.sql = 11. Min Average Salary.sql
+		12. Highest Peaks in Bulgaria.sql = 12. Highest Peaks in Bulgaria.sql
+		13. Count Mountain Ranges.sql = 13. Count Mountain Ranges.sql
+		14. Countries With or Without Rivers.sql = 14. Countries With or Without Rivers.sql
+		15. Continents and Currencies.sql = 15. Continents and Currencies.sql
+		16. Countries Without any Mountains.sql = 16. Countries Without any Mountains.sql
+		17. Highest Peak and Longest River by Country.sql = 17. Highest Peak and Longest River by Country.sql
+		18. Highest Peak Name and Elevation by Country.sql = 18. Highest Peak Name and Elevation by Country.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
