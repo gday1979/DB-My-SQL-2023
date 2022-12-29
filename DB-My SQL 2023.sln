@@ -111,6 +111,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Subqueries and Joins", "
 		18. Highest Peak Name and Elevation by Country.sql = 18. Highest Peak Name and Elevation by Country.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Indices and Data Aggregation", "06.Indices and Data Aggregation", "{ED1E5DC8-AEF1-4525-A7D7-A9A9288B2BC9}"
+	ProjectSection(SolutionItems) = preProject
+		01. Records’ Count.sql = 01. Records’ Count.sql
+		02. Longest Magic Wand.sql = 02. Longest Magic Wand.sql
+		03. Longest Magic Wand per Deposit Groups.sql = 03. Longest Magic Wand per Deposit Groups.sql
+		04. Smallest Deposit Group per Magic Wand Size.sql = 04. Smallest Deposit Group per Magic Wand Size.sql
+		05. Deposits Sum.sql = 05. Deposits Sum.sql
+		06. Deposits Sum for Ollivander Family.sql = 06. Deposits Sum for Ollivander Family.sql
+		07. Deposits Filter.sql = 07. Deposits Filter.sql
+		08. Deposit Charge.sql = 08. Deposit Charge.sql
+		09. Age Groups.sql = 09. Age Groups.sql
+		10. First Letter.sql = 10. First Letter.sql
+		11. Average Interest.sql = 11. Average Interest.sql
+		12. Rich Wizard, Poor Wizard.sql = 12. Rich Wizard, Poor Wizard.sql
+		13. Departments Total Salaries.sql = 13. Departments Total Salaries.sql
+		14. Employees Minimum Salaries.sql = 14. Employees Minimum Salaries.sql
+		15. Employees Average Salaries.sql = 15. Employees Average Salaries.sql
+		16. Employees Maximum Salaries.sql = 16. Employees Maximum Salaries.sql
+		17. Employees Count Salaries.sql = 17. Employees Count Salaries.sql
+		18. 3rd Highest Salary.sql = 18. 3rd Highest Salary.sql
+		19. Salary Challenge.sql = 19. Salary Challenge.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
