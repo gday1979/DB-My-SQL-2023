@@ -134,6 +134,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Indices and Data Aggrega
 		19. Salary Challenge.sql = 19. Salary Challenge.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Functions, Procedures, Triggers and Transactions", "07.Functions, Procedures, Triggers and Transactions", "{D5F38D05-DFE9-40B2-9438-21FBCDBEC396}"
+	ProjectSection(SolutionItems) = preProject
+		01. Employees with Salary Above 35000.sql = 01. Employees with Salary Above 35000.sql
+		02. Employees with Salary Above Number.sql = 02. Employees with Salary Above Number.sql
+		03. Town Names Starting With.sql = 03. Town Names Starting With.sql
+		04. Employees from Town.sql = 04. Employees from Town.sql
+		05. Salary Level Function.sql = 05. Salary Level Function.sql
+		06. Employees by Salary Level.sql = 06. Employees by Salary Level.sql
+		07. Define Function.sql = 07. Define Function.sql
+		08. Delete Employees and Departments.sql = 08. Delete Employees and Departments.sql
+		09. Find Full Name.sql = 09. Find Full Name.sql
+		10. People with Balance Higher Than.sql = 10. People with Balance Higher Than.sql
+		11. Future Value Function.sql = 11. Future Value Function.sql
+		12. Calculating Interest.sql = 12. Calculating Interest.sql
+		13. Cash in User Games Odd Rows.sql = 13. Cash in User Games Odd Rows.sql
+		14. Create Table Logs.sql = 14. Create Table Logs.sql
+		15. Create Table Emails.sql = 15. Create Table Emails.sql
+		16. Deposit Money.sql = 16. Deposit Money.sql
+		17. Withdraw Money Procedure.sql = 17. Withdraw Money Procedure.sql
+		18. Money Transfer.sql = 18. Money Transfer.sql
+		20. Massive Shopping.sql = 20. Massive Shopping.sql
+		21. Employees with Three Projects.sql = 21. Employees with Three Projects.sql
+		22. Delete Employees.sql = 22. Delete Employees.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
