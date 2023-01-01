@@ -1,1 +1,1 @@
-﻿
+﻿TRUNCATE TABLE Occupancies
