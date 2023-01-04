@@ -159,6 +159,38 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Functions, Procedures, T
 		22. Delete Employees.sql = 22. Delete Employees.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 28 Jun 2020", "Databases MSSQL Server Exam - 28 Jun 2020", "{60857C3A-F07D-4A07-9F13-3E8738119782}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL.sql = 01.DDL.sql
+		02.Insert.sql = 02.Insert.sql
+		03.Update.sql = 03.Update.sql
+		04.Delete.sql = 04.Delete.sql
+		05. Select All Military Journeys.sql = 05. Select All Military Journeys.sql
+		06. Select All Pilots.sql = 06. Select All Pilots.sql
+		07. Count Colonists.sql = 07. Count Colonists.sql
+		08. Select Spaceships With Pilots.sql = 08. Select Spaceships With Pilots.sql
+		09. Planets And Journeys.sql = 09. Planets And Journeys.sql
+		10. Select Special Colonists.sql = 10. Select Special Colonists.sql
+		11. Get Colonists Count.sql = 11. Get Colonists Count.sql
+		12. Change Journey Purpose.sql = 12. Change Journey Purpose.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 27 Jun 2020", "Databases MSSQL Server Exam - 27 Jun 2020", "{BA0D48F9-09F3-47C0-B8DB-78AFECBB41AE}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL2.sql = 01.DDL2.sql
+		02.Insert2.sql = 02.Insert2.sql
+		03.sql = 03.sql
+		04.sql = 04.sql
+		05. Mechanic Assignments.sql = 05. Mechanic Assignments.sql
+		06. Current Clients.sql = 06. Current Clients.sql
+		07. Mechanic Performance.sql = 07. Mechanic Performance.sql
+		08. Available Mechanics.sql = 08. Available Mechanics.sql
+		09. Past Expenses.sql = 09. Past Expenses.sql
+		10. Missing Parts.sql = 10. Missing Parts.sql
+		11. Place Order.sql = 11. Place Order.sql
+		12. Cost of Order.sql = 12. Cost of Order.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
