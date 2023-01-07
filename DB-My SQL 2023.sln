@@ -192,6 +192,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 21 Jun 2020", "Databases MSSQL Server Exam - 21 Jun 2020", "{EE601A87-BA36-4462-967A-53B4F8143BF2}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL-21 june2020.sql = 01.DDL-21 june2020.sql
+		02.Insert 21June 2020.sql = 02.Insert 21June 2020.sql
+		03.Update 21 June 2020.sql = 03.Update 21 June 2020.sql
+		04. Delete 21 JUNE 2020.sql = 04. Delete 21 JUNE 2020.sql
+		05. EEE-Mails.sql = 05. EEE-Mails.sql
+		06. City Statistics.sql = 06. City Statistics.sql
+		07. Longest and Shortest Trips.sql = 07. Longest and Shortest Trips.sql
+		08. Metropolis.sql = 08. Metropolis.sql
+		09. Romantic Getaways.sql = 09. Romantic Getaways.sql
+		10. GDPR Violation.sql = 10. GDPR Violation.sql
+		11. Available Room.sql = 11. Available Room.sql
+		12. Switch Room.sql = 12. Switch Room.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
