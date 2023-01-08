@@ -207,6 +207,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 		12. Switch Room.sql = 12. Switch Room.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 19 June 2022", "Databases MSSQL Server Exam - 19 June 2022", "{318E6005-117B-4AF8-B429-B798B442B66E}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL 19 June-2022.sql = 01.DDL 19 June-2022.sql
+		02.Insert 19 June 2022.sql = 02.Insert 19 June 2022.sql
+		03.Update 19 June 2022.sql = 03.Update 19 June 2022.sql
+		04.Delete 19 June 2022.sql = 04.Delete 19 June 2022.sql
+		05. Volunteers.sql = 05. Volunteers.sql
+		06. Animals data.sql = 06. Animals data.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
