@@ -215,6 +215,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 		04.Delete 19 June 2022.sql = 04.Delete 19 June 2022.sql
 		05. Volunteers.sql = 05. Volunteers.sql
 		06. Animals data.sql = 06. Animals data.sql
+		07. Owners and Their Animals.sql = 07. Owners and Their Animals.sql
+		08. Owners, Animals and Cages.sql = 08. Owners, Animals and Cages.sql
+		09. Volunteers in Sofia.sql = 09. Volunteers in Sofia.sql
+		10. Animals for Adoption.sql = 10. Animals for Adoption.sql
+		11. All Volunteers in a Department.sql = 11. All Volunteers in a Department.sql
+		12. Animals with Owner or Not.sql = 12. Animals with Owner or Not.sql
 	EndProjectSection
 EndProject
 Global
