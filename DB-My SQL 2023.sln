@@ -223,6 +223,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 		12. Animals with Owner or Not.sql = 12. Animals with Owner or Not.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Retake Exam - 10 Dec 2021", "Databases MSSQL Server Retake Exam - 10 Dec 2021", "{D885F8CD-CF64-4AA2-A7B5-61951AC5201E}"
+	ProjectSection(SolutionItems) = preProject
+		02.Insert 10.12.2021.sql = 02.Insert 10.12.2021.sql
+		01.DDL 10.12 2021.sql = 01.DDL 10.12 2021.sql
+		03.Update 10.12.2021.sql = 03.Update 10.12.2021.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
