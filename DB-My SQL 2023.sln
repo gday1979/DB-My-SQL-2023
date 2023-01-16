@@ -225,9 +225,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Retake Exam - 10 Dec 2021", "Databases MSSQL Server Retake Exam - 10 Dec 2021", "{D885F8CD-CF64-4AA2-A7B5-61951AC5201E}"
 	ProjectSection(SolutionItems) = preProject
-		02.Insert 10.12.2021.sql = 02.Insert 10.12.2021.sql
 		01.DDL 10.12 2021.sql = 01.DDL 10.12 2021.sql
+		02.Insert 10.12.2021.sql = 02.Insert 10.12.2021.sql
 		03.Update 10.12.2021.sql = 03.Update 10.12.2021.sql
+		04. Delete 10 December 2021.sql = 04. Delete 10 December 2021.sql
+		05. Aircraft.sql = 05. Aircraft.sql
+		06. Pilots and Aircraft.sql = 06. Pilots and Aircraft.sql
+		07. Top 20 Flight Destinations.sql = 07. Top 20 Flight Destinations.sql
+		08. Number of Flights for Each Aircraft.sql = 08. Number of Flights for Each Aircraft.sql
+		09. Regular Passengers.sql = 09. Regular Passengers.sql
+		10. Full Info for Flight Destinations.sql = 10. Full Info for Flight Destinations.sql
+		11. Find all Destinations by Email Address.sql = 11. Find all Destinations by Email Address.sql
+		12. Full Info for Airports.sql = 12. Full Info for Airports.sql
 	EndProjectSection
 EndProject
 Global
