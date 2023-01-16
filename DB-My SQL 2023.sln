@@ -225,6 +225,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Retake Exam - 10 Dec 2021", "Databases MSSQL Server Retake Exam - 10 Dec 2021", "{D885F8CD-CF64-4AA2-A7B5-61951AC5201E}"
 	ProjectSection(SolutionItems) = preProject
+		01. DDL 16 Octomber 2021.sql = 01. DDL 16 Octomber 2021.sql
 		01.DDL 10.12 2021.sql = 01.DDL 10.12 2021.sql
 		02.Insert 10.12.2021.sql = 02.Insert 10.12.2021.sql
 		03.Update 10.12.2021.sql = 03.Update 10.12.2021.sql
@@ -237,6 +238,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Reta
 		10. Full Info for Flight Destinations.sql = 10. Full Info for Flight Destinations.sql
 		11. Find all Destinations by Email Address.sql = 11. Find all Destinations by Email Address.sql
 		12. Full Info for Airports.sql = 12. Full Info for Airports.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 16 October 2021", "Databases MSSQL Server Exam - 16 October 2021", "{49EDFF46-E428-4EFB-A52B-6EAEA8673575}"
+	ProjectSection(SolutionItems) = preProject
+		01. DDL 16 Octomber 2021.sql = 01. DDL 16 Octomber 2021.sql
+		02. Insert 16 Octomber 2021.sql = 02. Insert 16 Octomber 2021.sql
+		03. Update 16 Octomber 2021.sql = 03. Update 16 Octomber 2021.sql
+		04. Delete 16 Octomber 2021.sql = 04. Delete 16 Octomber 2021.sql
+		05. Cigars by Price.sql = 05. Cigars by Price.sql
+		06. Cigars by Taste.sql = 06. Cigars by Taste.sql
+		07. Clients without Cigars.sql = 07. Clients without Cigars.sql
+		08. First 5 Cigars.sql = 08. First 5 Cigars.sql
+		09. Clients with ZIP Codes.sql = 09. Clients with ZIP Codes.sql
+		10. Cigars by Size.sql = 10. Cigars by Size.sql
+		11. Client with Cigars.sql = 11. Client with Cigars.sql
+		12. Search for Cigar with Specific Taste.sql = 12. Search for Cigar with Specific Taste.sql
 	EndProjectSection
 EndProject
 Global
