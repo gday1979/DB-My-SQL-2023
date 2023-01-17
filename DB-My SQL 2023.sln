@@ -256,6 +256,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 		12. Search for Cigar with Specific Taste.sql = 12. Search for Cigar with Specific Taste.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Retake Exam - 8 April 2021", "Databases MSSQL Server Retake Exam - 8 April 2021", "{0A91462B-794E-4465-B9D0-0D33994E73E7}"
+	ProjectSection(SolutionItems) = preProject
+		01. DDL  08 April 2021.sql = 01. DDL  08 April 2021.sql
+		02. Insert 08 April 2021.sql = 02. Insert 08 April 2021.sql
+		03. Update 08 April 2021.sql = 03. Update 08 April 2021.sql
+		04. Delete 08 April 2021.sql = 04. Delete 08 April 2021.sql
+		05. Unassigned Reports.sql = 05. Unassigned Reports.sql
+		06. Reports  Categories.sql = 06. Reports  Categories.sql
+		07. Most Reported Category.sql = 07. Most Reported Category.sql
+		08. Birthday Repor.sql = 08. Birthday Repor.sql
+		09. User per Employee.sql = 09. User per Employee.sql
+		10. Full Info.sql = 10. Full Info.sql
+		11. Hours to Complete.sql = 11. Hours to Complete.sql
+		12. Assign Employee.sql = 12. Assign Employee.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
