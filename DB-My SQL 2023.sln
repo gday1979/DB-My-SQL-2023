@@ -272,6 +272,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Reta
 		12. Assign Employee.sql = 12. Assign Employee.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 13 February 2021", "Databases MSSQL Server Exam - 13 February 2021", "{082D9A42-76AC-4CC3-8784-6E0028418718}"
+	ProjectSection(SolutionItems) = preProject
+		01. DDL 13 February 2021.sql = 01. DDL 13 February 2021.sql
+		03.Update 13 February 2021.sql = 03.Update 13 February 2021.sql
+		02.Inset 13 February 2021.sql = 02.Inset 13 February 2021.sql
+		04.Delete 13 February 2021.sql = 04.Delete 13 February 2021.sql
+		05. Commits.sql = 05. Commits.sql
+		06. Front-end.sql = 06. Front-end.sql
+		07. Issue Assignment.sql = 07. Issue Assignment.sql
+		08. Single Files.sql = 08. Single Files.sql
+		09. Commits in Repositories.sql = 09. Commits in Repositories.sql
+		10. Average Size.sql = 10. Average Size.sql
+		11. All User Commits.sql = 11. All User Commits.sql
+		12. Search for Files.sql = 12. Search for Files.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
