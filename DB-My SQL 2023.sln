@@ -288,6 +288,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam
 		12. Search for Files.sql = 12. Search for Files.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Retake Exam - 11 August 2020", "Databases MSSQL Server Retake Exam - 11 August 2020", "{B3B5F393-DDF3-448D-A960-73FF728AEF85}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL 11 August 2020.sql = 01.DDL 11 August 2020.sql
+		02.Insert 11 August 2020.sql = 02.Insert 11 August 2020.sql
+		03.Update 11 August 2020.sql = 03.Update 11 August 2020.sql
+		04.Delete 11 August 2020.sql = 04.Delete 11 August 2020.sql
+		05.Products By Price.sql = 05.Products By Price.sql
+		06.Negative Feedback.sql = 06.Negative Feedback.sql
+		08.Customers by Criteria.sql = 08.Customers by Criteria.sql
+		07.Customers without Feedback.sql = 07.Customers without Feedback.sql
+		09.Middle Range Distributors.sql = 09.Middle Range Distributors.sql
+		10.Country Representative.sql = 10.Country Representative.sql
+		11Customers With Countries.sql = 11Customers With Countries.sql
+		12.Delete Products.sql = 12.Delete Products.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
