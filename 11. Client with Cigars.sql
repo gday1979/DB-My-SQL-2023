@@ -1,4 +1,4 @@
-﻿REATE FUNCTION udf_ClientWithCigars(@name NVARCHAR(MAX))
+﻿CREATE FUNCTION udf_ClientWithCigars(@name NVARCHAR(MAX))
 RETURNS INT
 AS
 BEGIN
