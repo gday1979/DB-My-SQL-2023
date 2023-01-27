@@ -274,8 +274,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Exam - 13 February 2021", "Databases MSSQL Server Exam - 13 February 2021", "{082D9A42-76AC-4CC3-8784-6E0028418718}"
 	ProjectSection(SolutionItems) = preProject
 		01. DDL 13 February 2021.sql = 01. DDL 13 February 2021.sql
-		03.Update 13 February 2021.sql = 03.Update 13 February 2021.sql
 		02.Inset 13 February 2021.sql = 02.Inset 13 February 2021.sql
+		03.Update 13 February 2021.sql = 03.Update 13 February 2021.sql
 		04.Delete 13 February 2021.sql = 04.Delete 13 February 2021.sql
 		05. Commits.sql = 05. Commits.sql
 		06. Front-end.sql = 06. Front-end.sql
@@ -295,12 +295,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Reta
 		04.Delete 11 August 2020.sql = 04.Delete 11 August 2020.sql
 		05.Products By Price.sql = 05.Products By Price.sql
 		06.Negative Feedback.sql = 06.Negative Feedback.sql
-		08.Customers by Criteria.sql = 08.Customers by Criteria.sql
 		07.Customers without Feedback.sql = 07.Customers without Feedback.sql
+		08.Customers by Criteria.sql = 08.Customers by Criteria.sql
 		09.Middle Range Distributors.sql = 09.Middle Range Distributors.sql
 		10.Country Representative.sql = 10.Country Representative.sql
 		11Customers With Countries.sql = 11Customers With Countries.sql
 		12.Delete Products.sql = 12.Delete Products.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Retake Exam - 10 Aug 2022", "Databases MSSQL Server Retake Exam - 10 Aug 2022", "{A630E6D6-F989-4CC0-9B57-3A0857D7BD95}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL 10 August 2022.sql = 01.DDL 10 August 2022.sql
+		02.Insert 10 August 2022.sql = 02.Insert 10 August 2022.sql
+		03.Update 10 August 2022.sql = 03.Update 10 August 2022.sql
+		04.Delete 10 August 2022.sql = 04.Delete 10 August 2022.sql
+		05. Tourists.sql = 05. Tourists.sql
+		06. Sites with Their Location and Category.sql = 06. Sites with Their Location and Category.sql
+		07. Count of Sites in Sofia Province.sql = 07. Count of Sites in Sofia Province.sql
+		08. Tourist Sites established BC.sql = 08. Tourist Sites established BC.sql
+		09. Tourists with their Bonus Prizes.sql = 09. Tourists with their Bonus Prizes.sql
+		10. Tourists visiting History  Archaeology sites.sql = 10. Tourists visiting History  Archaeology sites.sql
+		11. Tourists Count on a Tourist Site.sql = 11. Tourists Count on a Tourist Site.sql
+		12. Annual Reward Lottery.sql = 12. Annual Reward Lottery.sql
 	EndProjectSection
 EndProject
 Global
