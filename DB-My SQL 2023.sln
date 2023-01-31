@@ -321,14 +321,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases MSSQL Server Reta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Triggers and Transactions", "08.Triggers and Transactions", "{75AF3A3B-E738-43AF-8046-93494BF2E6E6}"
 	ProjectSection(SolutionItems) = preProject
-		01. Create Table Logs.sql = 01. Create Table Logs.sql
-		02. Create Table Emails.sql = 02. Create Table Emails.sql
-		03. Deposit Money.sql = 03. Deposit Money.sql
-		04. Withdraw Money Procedure.sql = 04. Withdraw Money Procedure.sql
-		05. Money Transfer.sql = 05. Money Transfer.sql
-		06. Massive Shopping.sql = 06. Massive Shopping.sql
-		07. Employees with Three Projects.sql = 07. Employees with Three Projects.sql
-		09. Delete Employees.sql = 09. Delete Employees.sql
+		14. Create Table Logs.sql = 14. Create Table Logs.sql
+		15. Create Table Emails.sql = 15. Create Table Emails.sql
+		16. Deposit Money.sql = 16. Deposit Money.sql
+		17. Withdraw Money Procedure.sql = 17. Withdraw Money Procedure.sql
+		18. Money Transfer.sql = 18. Money Transfer.sql
+		20. Massive Shopping.sql = 20. Massive Shopping.sql
+		21. Employees with Three Projects.sql = 21. Employees with Three Projects.sql
+		22. Delete Employees.sql = 22. Delete Employees.sql
 	EndProjectSection
 EndProject
 Global
