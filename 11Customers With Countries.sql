@@ -1,9 +1,8 @@
-﻿CREATE FUNCTION udf_HoursToComplete(@StartDate DATETIME, @EndDate DATETIME)
-RETURNS INT
-AS
-BEGIN
-	IF(@StartDate IS NULL OR @EndDate IS NULL)
-		RETURN 0
-
-	RETURN DATEDIFF(HOUR, @StartDate, @EndDate)
-END
+﻿CREATE VIEW v_UserWithCountries AS
+SELECT
+CONCAT(c.FirstName, ' ', c.LastName) AS CustomerName
+,c.Age
+,c.Gender
+,cc.[Name] AS CountryName
+FROM Customers AS c
+JOIN Countries AS cc ON c.CountryId = cc.Id
