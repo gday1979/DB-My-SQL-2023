@@ -331,6 +331,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Triggers and Transaction
 		22. Delete Employees.sql = 22. Delete Employees.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09.Additional Exercises", "09.Additional Exercises", "{EBD0A2A3-0462-41B4-9E29-6A8FC91FB961}"
+	ProjectSection(SolutionItems) = preProject
+		02. All Users in Games.sql = 02. All Users in Games.sql
+		01. Number of Users for Email Provider.sql = 01. Number of Users for Email Provider.sql
+		03. Users in Games with Their Items.sql = 03. Users in Games with Their Items.sql
+		04. User in Games with Their Statistics.sql = 04. User in Games with Their Statistics.sql
+		05. All Items with Greater than Average Statistics.sql = 05. All Items with Greater than Average Statistics.sql
+		06. Display All Items about Forbidden Game Type.sql = 06. Display All Items about Forbidden Game Type.sql
+		07. Buy Items for User in Game.sql = 07. Buy Items for User in Game.sql
+		08. Peaks and Mountains.sql = 08. Peaks and Mountains.sql
+		09. Peaks with Mountain, Country and Continent.sql = 09. Peaks with Mountain, Country and Continent.sql
+		10. Rivers by Country.sql = 10. Rivers by Country.sql
+		11. Count of Countries by Currency.sql = 11. Count of Countries by Currency.sql
+		12. Population and Area by Continent.sql = 12. Population and Area by Continent.sql
+		13. Monasteries by Country.sql = 13. Monasteries by Country.sql
+		14. Monasteries by Continents and Countries.sql = 14. Monasteries by Continents and Countries.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
