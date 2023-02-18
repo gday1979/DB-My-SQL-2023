@@ -354,10 +354,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "My Exam 19 February 2023", 
 		01.DDL 19 February.sql = 01.DDL 19 February.sql
 		02.Insert 19 February.sql = 02.Insert 19 February.sql
 		03.Update 19 February.sql = 03.Update 19 February.sql
-		4.Delete 19 February.sql = 4.Delete 19 February.sql
+		10.sql = 10.sql
+		04.Delete 19 February.sql = 04.Delete 19 February.sql
+		11.sql = 11.sql
+		12.sql = 12.sql
 		5.sql = 5.sql
 		6..sql = 6..sql
 		7.sql = 7.sql
+		8.sql = 8.sql
+		9.sql = 9.sql
 	EndProjectSection
 EndProject
 Global
