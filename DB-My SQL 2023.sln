@@ -333,8 +333,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Triggers and Transaction
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09.Additional Exercises", "09.Additional Exercises", "{EBD0A2A3-0462-41B4-9E29-6A8FC91FB961}"
 	ProjectSection(SolutionItems) = preProject
-		02. All Users in Games.sql = 02. All Users in Games.sql
 		01. Number of Users for Email Provider.sql = 01. Number of Users for Email Provider.sql
+		02. All Users in Games.sql = 02. All Users in Games.sql
 		03. Users in Games with Their Items.sql = 03. Users in Games with Their Items.sql
 		04. User in Games with Their Statistics.sql = 04. User in Games with Their Statistics.sql
 		05. All Items with Greater than Average Statistics.sql = 05. All Items with Greater than Average Statistics.sql
@@ -347,6 +347,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09.Additional Exercises", "
 		12. Population and Area by Continent.sql = 12. Population and Area by Continent.sql
 		13. Monasteries by Country.sql = 13. Monasteries by Country.sql
 		14. Monasteries by Continents and Countries.sql = 14. Monasteries by Continents and Countries.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "My Exam 19 February 2023", "My Exam 19 February 2023", "{06E4C36E-2A87-4438-88F3-5883AAD8EDC6}"
+	ProjectSection(SolutionItems) = preProject
+		01.DDL 19 February.sql = 01.DDL 19 February.sql
+		02.Insert 19 February.sql = 02.Insert 19 February.sql
+		03.Update 19 February.sql = 03.Update 19 February.sql
+		4.Delete 19 February.sql = 4.Delete 19 February.sql
+		5.sql = 5.sql
+		6..sql = 6..sql
+		7.sql = 7.sql
 	EndProjectSection
 EndProject
 Global
